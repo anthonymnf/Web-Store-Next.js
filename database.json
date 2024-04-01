@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "name": "Macbook Air",
+    "description": "Uma potência no ar. O chip M1 da Apple revolucionou nosso notebook mais fino e leve. A CPU e a GPU estão mais rápidas, até 3,5 vezes e até cinco vezes, respectivamente. Nosso Neural Engine avançado deixa o aprendizado de máquina até nove vezes mais veloz. A bateria oferece mais tempo de duração. E trocamos a ventoinha pelo silêncio. Nunca tanto desempenho esteve reunido em um MacBook Air.",
+    "price": 12508.0,
+    "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-card-40-macbook-air-202110?wid=600&hei=500&fmt=p-jpg&qlt=95&.v=1633726242000",
+    "inStock": 50
+  },
+  {
+    "id": 2,
+    "name": "Macbook Pro",
+    "description": "Potência pura para profissionais. O MacBook Pro mais poderoso de todos chegou. Com os ultrarrápidos M1 Pro ou M1 Max, os primeiros chips da Apple feitos para profissionais, o novo MacBook Pro tem desempenho revolucionário e bateria com duração impressionante. Junte a isso uma tela Liquid Retina XDR espetacular, a melhor câmera e sistema de áudio em um notebook Mac e todas as portas que você poderia querer. Ele é diferente de tudo que veio antes. E é um fenômeno.",
+    "price": 25979.0,
+    "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-card-40-macbook-pro-14-202110?wid=600&hei=500&fmt=p-jpg&qlt=95&.v=1633726243000",
+    "inStock": 50
+  },
+  {
+    "id": 3,
+    "name": "iMac de 24 pol.",
+    "description": "Diga olá para o novo iMac. Inspirado no que a Apple tem de melhor e elevado à potência do chip M1. Fica lindo em qualquer lugar. E se encaixa perfeitamente na sua vida.",
+    "price": 16934.0,
+    "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-card-40-imac-24-202108?wid=600&hei=500&fmt=jpeg&qlt=95&.v=1625868688000",
+    "inStock": 50
+  },
+  {
+    "id": 4,
+    "name": "Mac mini",
+    "description": "Novo por dentro. Notável por inteiro. O chip M1 da Apple leva nosso desktop mais versátil e multifuncional a uma nova dimensão. O desempenho da CPU está até três vezes melhor, o da GPU, até seis vezes mais rápido, e nosso Neural Engine avançado deixa o aprendizado de máquina até 15 vezes mais veloz. Agora você pode trabalhar, jogar e criar no Mac mini com uma velocidade e potência que jamais imaginou.",
+    "price": 8370.0,
+    "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-card-40-mac-mini-202108?wid=600&hei=500&fmt=p-jpg&qlt=95&.v=1626106830000",
+    "inStock": 50
+  },
+  {
+    "id": 5,
+    "name": "iPhone 13 Pro",
+    "description": "Novo sistema de câmera dramaticamente mais poderoso. Tela responsiva que surpreende a cada toque. O chip de smartphone mais rápido do mundo. Design com resistência fora de série. E um salto imenso na duração da bateria. É Pró e pronto.",
+    "price": 9176.0,
+    "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-card-40-iphone13pro-202203?wid=600&hei=500&fmt=p-jpg&qlt=95&.v=1644989935267",
+    "inStock": 50
+  },
+  {
+    "id": 6,
+    "name": "iPhone 13",
+    "description": "Nosso sistema de câmera dupla mais avançado até hoje. Durabilidade na frente, no meio e de ponta a ponta. Um chip com velocidade impressionante. Tudo o que você faz fica mais rápido. Um aumento notável na duração da bateria. iPhone 13 Seu novo superpoder.",
+    "price": 7599.0,
+    "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-card-40-iphone13-202203?wid=600&hei=500&fmt=p-jpg&qlt=95&.v=1646335268199",
+    "inStock": 50
+  },
+  {
+    "id": 7,
+    "name": "iPhone SE",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "price": 4199.0,
+    "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-card-40-iphonese-202203?wid=600&hei=500&fmt=p-jpg&qlt=95&.v=1646415838921",
+    "inStock": 50
+  },
+  {
+    "id": 8,
+    "name": "iPhone 12",
+    "description": "Rápido que é uma beleza. Chip superpoderoso, velocidade 5G, sistema avançado de câmera dupla, parte da frente em Ceramic Shield, mais resistente que qualquer vidro de smartphone e uma tela OLED brilhante e colorida. O iPhone 12 vem com tudo — em dois tamanhos ideais.",
+    "price": 5505.0,
+    "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-card-40-iphone12purple-202109?wid=600&hei=500&fmt=p-jpg&qlt=95&.v=1646335268265",
+    "inStock": 50
+  },
+  {
+    "id": 9,
+    "name": "iPhone 11",
+    "description": "Tela Liquid Retina HD de 6,1 polegadas. Sistema de câmera dupla com modo Noite, modo Retrato e vídeo 4K até 60 qps. Câmera TrueDepth frontal de 12 MP com modo Retrato, vídeo 4K e câmera lenta. Chip A13 Bionic com Neural Engine. Face ID para autenticação segura e Apple Pay",
+    "price": 4999.0,
+    "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-card-40-iphone-11-202108?wid=600&hei=500&fmt=p-jpg&qlt=95&.v=1646502984732",
+    "inStock": 50
+  },
+  {
+    "id": 10,
+    "name": "iPad Pro",
+    "description": "A experiência definitiva em iPad. Agora com o desempenho fora de série do chip M1, uma tela XDR impressionante e conexão celular 5G ultrarrápida. Prepare-se.",
+    "price": 10391.0,
+    "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipadpro11-digitalmat-gallery-1-202111_GEO_BR?wid=600&hei=500&fmt=png-alpha&.v=1635806350000",
+    "inStock": 50
+  },
+  {
+    "id": 11,
+    "name": "iPad Air",
+    "description": "Cor e potência no ar. O poderoso chip M1 da Apple está aqui. Câmera frontal ultra-angular de 12 MP com Palco Central. 5G ultrarrápido. Compatível com Apple Pencil e Magic Keyboard. Cinco cores lindas.",
+    "price": 6799.0,
+    "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-card-40-air-202203?wid=600&hei=500&fmt=p-jpg&qlt=95&.v=1644963446761",
+    "inStock": 50
+  },
+  {
+    "id": 12,
+    "name": "iPad",
+    "description": "Cheio de potência. Fácil de usar. Versátil. O novo iPad foi criado para fazer tudo o que você ama. Trabalhe, jogue, crie, aprenda, conecte-se e vá além. Tudo isso por menos do que você imagina.",
+    "price": 3848.0,
+    "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-card-40-ipad-202109?wid=600&hei=500&fmt=p-jpg&qlt=95&.v=1630640992000",
+    "inStock": 50
+  },
+  {
+    "id": 13,
+    "name": "iPad mini",
+    "description": "Novo design todo tela. O poderoso chip A15 Bionic. 5G ultrarrápido. Suporte para Apple Pencil. Em quatro cores que você vai querer muito. Incrível como ele só.",
+    "price": 5695.0,
+    "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-card-40-ipad-mini-202109?wid=600&hei=500&fmt=p-jpg&qlt=95&.v=1630457637000",
+    "inStock": 50
+  },
+  {
+    "id": 14,
+    "name": "Apple Watch Series 7",
+    "description": "Tela à vista. A maior e mais avançada tela até hoje. O Apple Watch mais resistente de todos. Inovações revolucionárias para sua saúde. Recarga até 33% mais rápida. Caixas de alumínio em cinco cores.",
+    "price": 5099.0,
+    "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-s7-digitalmat-gallery-1-202203_GEO_BR?wid=600&hei=500&fmt=png-alpha&.v=1646033514786",
+    "inStock": 50
+  },
+  {
+    "id": 15,
+    "name": "Apple Watch SE",
+    "description": "É muito Apple Watch por menos. Recursos poderosos para ajudar você a levar uma vida mais conectada, ativa, saudável e em segurança. Sensores avançados para acompanhar suas atividades e registrar seus exercícios favoritos. E, com conexão celular, você pode sair sem o telefone1. O Apple Watch SE é muito para gostar por menos do que você imagina.",
+    "price": 3655.0,
+    "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-card-40-se-202203_GEO_BR?wid=600&hei=500&fmt=p-jpg&qlt=95&.v=1646239532017",
+    "inStock": 50
+  },
+  {
+    "id": 16,
+    "name": "Apple Watch Nike",
+    "description": "Feito para você se mover. O Apple Watch Nike com o app Nike Run Club é seu parceiro de corrida definitivo. O novo mostrador Nike se mexe com você. Os gráficos de ritmo e as sequências agora aparecem diretamente no app Nike Run Club. E isso é só o começo. O Apple Watch Nike tem uma maratona de recursos para você melhorar seus treinos, seus tempos e suas corridas. Disponível nos modelos Apple Watch Series 7 e Apple Watch SE",
+    "price": 5099.0,
+    "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-nike-s7-digitalmat-gallery-1-202203_GEO_BR?wid=600&hei=500&fmt=png-alpha&.v=1646429070532",
+    "inStock": 50
+  }
+]
