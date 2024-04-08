@@ -21,10 +21,14 @@ const Home: NextPage = () => {
             O melhor jeito de comprar o que você ama
           </h1>
           <p className="my-4">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestiae
-            iusto voluptatem obcaecati omnis error architecto neque cum
-            exercitationem fugiat. Vero illo autem eum nisi sapiente, odio optio
-            accusamus cupiditate ad.
+            Aqui, celebramos a excelência tecnológica que redefine a forma como
+            vivemos, trabalhamos e nos conectamos. Explore a nossa vasta seleção
+            de iPhones, iPads, MacBooks e muito mais, todos projetados para
+            elevar sua experiência digital a novos patamares. Deixe-se envolver
+            pela magia dos dispositivos Apple, onde o design meticuloso encontra
+            a funcionalidade intuitiva. Complemente seu estilo de vida digital
+            com acessórios exclusivos, desde capas elegantes até fones de ouvido
+            de alta fidelidade.
           </p>
           <Link href="/products">
             <Button color="dark" className="px-4 pb-2">

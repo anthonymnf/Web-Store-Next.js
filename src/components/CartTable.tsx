@@ -15,7 +15,7 @@ const CartTableRow = (props: { entry: CartEntry }) => {
   return (
     <tr>
       <td>
-        <Row className="align-items-center">
+        <Row className="align-items-center ">
           <Col xs={4} md={2} lg={1}>
             <Image
               src={props.entry.product.imageUrl}
@@ -27,7 +27,14 @@ const CartTableRow = (props: { entry: CartEntry }) => {
               }}
             />
           </Col>
-          <Col className="p-4" xs={8} md={10} lg={11}>
+          <Col
+            xs={8}
+            md={10}
+            lg={11}
+            style={{
+              paddingLeft: "2rem",
+            }}
+          >
             {props.entry.product.name}
           </Col>
         </Row>
