@@ -1,5 +1,9 @@
+import CartTable from "@/components/CartTable";
+import CartTotal from "@/components/CartTotal";
+import Header from "@/components/Header";
 import { NextPage } from "next";
 import Head from "next/head";
+import { Container } from "reactstrap";
 
 const Cart: NextPage = () => {
   return (
@@ -9,8 +13,12 @@ const Cart: NextPage = () => {
         <meta name="description" content="Meu carrinho de compras" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-
-      <h1>Carrinho</h1>
+      <Header />
+      <Container>
+        <h1>Carrinho</h1>
+        <CartTable />
+        <CartTotal />
+      </Container>
     </>
   );
 };

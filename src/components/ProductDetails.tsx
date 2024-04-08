@@ -3,6 +3,7 @@ import React, { useState } from "react";
 import { Button, Col, Row } from "reactstrap";
 import { ProductType } from "../services/products";
 import SuccessToast from "./SuccessToast";
+import { useCart } from "@/hooks/useCart";
 
 type ProductDetailsProps = {
   product: ProductType;
@@ -10,15 +11,21 @@ type ProductDetailsProps = {
 
 const ProductDetails: React.FC<ProductDetailsProps> = ({ product }) => {
   const [toastIsOpen, setToastIsOpen] = useState(false);
+  const { addProduct } = useCart();
 
   return (
     <Row>
       <Col lg={6}>
         <Image
+          className="align-middle"
           src={product.imageUrl}
           alt={product.name}
-          height={500}
-          width={600}
+          height={400}
+          width={500}
+          style={{
+            width: "100%",
+            height: "auto",
+          }}
         />
       </Col>
 
@@ -38,6 +45,7 @@ const ProductDetails: React.FC<ProductDetailsProps> = ({ product }) => {
           color="dark"
           className="my-3 pb-2"
           onClick={() => {
+            addProduct(product);
             setToastIsOpen(true);
             setTimeout(() => setToastIsOpen(false), 1000 * 3);
           }}
